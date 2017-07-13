@@ -1,3 +1,8 @@
+
+#PROGRAM TRIGGERED BY CRON
+# Author: Victor Zetterberg
+#License: Public Domain courtesy of Breaks Energy LLC
+
 import time
 
 from ctrl_sense import Ctrl_sense
